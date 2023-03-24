@@ -1,7 +1,7 @@
 version: 2.1
 
-orbs:
-  aws-cli: circleci/node:13.8.0
+# orbs:
+#   aws-cli: circleci/node:13.8.0
 
 parameters:
   workflow-id:
